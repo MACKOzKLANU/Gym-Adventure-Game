@@ -23,7 +23,7 @@ Follow the prompts to make choices and progress in the game. Good luck on your g
 ## Screenshots
 
 ![Weightlifting Area](screenshots/menu.JPG)
-![Cardio Area](screenshots/boss.JPG)
+![Cardio Area](screenshots/boss.jpg)
 
 ## Contributing
 
