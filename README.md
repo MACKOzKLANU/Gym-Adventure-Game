@@ -14,7 +14,7 @@ Welcome to the Gym Adventure Game! Train, earn gold, and level up your strength 
 ## Installation
 
 1. Clone this repository.
-2. Run `python gym_adventure.py` to start the game.
+2. Run `python game_start.py` to start the game.
 
 ## Usage
 
