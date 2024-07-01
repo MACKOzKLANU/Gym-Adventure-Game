@@ -1,5 +1,30 @@
-# Maciej Sęk & Bartosz Figas 3TAP
+# Gym Adventure Game 🏋️‍♂️
 
+Welcome to the Gym Adventure Game! Train, earn gold, and level up your strength in this text-based console game.
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/v_S3VZUp)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15195090&assignment_repo_type=AssignmentRepo)
+## Features
+
+- Weightlifting area
+- Cardio area
+- Shop for items (protein shake, water bottle)
+- Rest and recover stamina
+- Rob skinny rats for extra gold
+- Fight the boss when you're strong enough
+
+## Installation
+
+1. Clone this repository.
+2. Run `python gym_adventure.py` to start the game.
+
+## Usage
+
+Follow the prompts to make choices and progress in the game. Good luck on your gym adventure!
+
+## Screenshots
+
+![Weightlifting Area](screenshots/menu.jpg)
+![Cardio Area](screenshots/boss.jpg)
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request.
